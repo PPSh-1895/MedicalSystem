@@ -1,9 +1,9 @@
-package com.lin.appapidemo.controller.shixun;
+package com/se/hospitalmanagement/controller;
 
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
-import com.lin.appapidemo.mapper.shixun.*;
-import com.lin.appapidemo.model.shixun.*;
+import com.se.hospitalmanagement.mapper.*;
+import com.se.hospitalmanagement.models.*;
 import com.lin.appapidemo.util.DateTimeUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
